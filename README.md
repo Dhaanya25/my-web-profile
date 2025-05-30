@@ -1,23 +1,10 @@
-# my-web-profile
 
-Welcome to my personal web profile project! 🚀
+# My Web Profile
 
-## 🌐 About This Project
+## 🛠️ Projects Showcase
 
-This is a simple HTML/CSS-based portfolio website to showcase my skills, projects, and contact information.
+I’m currently learning web development and will be adding my projects here soon. Stay tuned!
 
-
-
-##  Features
-
-- Clean and responsive layout
-- About Me section
-- Projects showcase
-- Contact form (coming soon)
-
-##  Preview
-
-Coming soon...
 
 ##  Contact Me
 
